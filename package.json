@@ -1,0 +1,17 @@
+{
+  "name": "medical-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "msnodesqlv8": "^4.4.0",
+    "mssql": "^11.0.1",
+    "react-toastify": "^10.0.6",
+    "tedious": "^18.6.1"
+  }
+}
