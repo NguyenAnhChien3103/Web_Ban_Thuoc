@@ -1,4 +1,5 @@
 GUI Website 
 
 1.Main Page
-![image](https://github.com/user-attachments/assets/a765b5dd-686d-4aed-95ab-64e485a316d6)
+
+![Uploading Screenshot 2024-12-18 055220.png…]()
